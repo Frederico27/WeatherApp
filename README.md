@@ -2,8 +2,6 @@
 
 Bemvindo mai iha web aplikasaun simpel hodi bele montitoriza klima iha regiaun Timor-Leste !🌍
 
-![Bandeira Timor Leste](https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg){:height="20px" width="20px"}
-
 ## Deskrisaun
 
 WeatherApp nu'udar aplikasaun ne'ebe kria hodi bele fornese informasaun klima sira iha 14 Munisipiu Iha Timor-Leste,  website ne'e mos mai ho feature sira maka hanesan:
