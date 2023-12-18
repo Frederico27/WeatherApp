@@ -1,6 +1,6 @@
 # WeatherApp 🌦️
 
-Bemvindo mai iha web aplikasaun simpel hodi bele montitoriza klima iha regiaun Timor-Leste ! 🌍
+Bemvindo mai iha web aplikasaun simpel hodi bele montitoriza klima iha regiaun Timor-Leste 🇹🇱 ! 🌍
 
 ## Deskrisaun
 
