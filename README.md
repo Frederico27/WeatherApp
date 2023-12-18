@@ -4,7 +4,7 @@ Bevindo mai iha web aplikasaun simpel hodi bele montitoriza klima iha regiaun Ti
 
 ## Deskrisaun
 
-WeatherApp nu'udar aplikasaun ne'ebe kria hodi bele hetan informasaun klima sira iha 14 Munisipiu Iha Timor-Leste,  website ne'e mos mai ho feature sira maka hanesan:
+WeatherApp nu'udar aplikasaun ne'ebe kria hodi bele fornese informasaun klima sira iha 14 Munisipiu Iha Timor-Leste,  website ne'e mos mai ho feature sira maka hanesan:
 
 - **Informasaun Real Time**: Asessu Informasaun Klima sira ho Real Time.
 - **Predisaun Klima Oras no Loron**: Asesu informasaun klima sira tuir oras no loron tuirmai.
