@@ -29,6 +29,32 @@
         width: 100%;
     }
 
+
+    /* windy style */
+
+    .windy iframe {
+        width: 50%;
+        height: 450px;
+    }
+
+    @media (max-width: 576px) {
+        .windy iframe {
+            width: 95%;
+        }
+    }
+
+    @media (max-width: 992px) {
+        .windy iframe {
+            width: 90%;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .himawari img {
+            width: 90%;
+        }
+    }
+
     /* Gaya untuk ikon dan teks */
     .custom-icon {
         text-align: center;
@@ -66,6 +92,11 @@
             display: block;
             text-decoration: none;" href="https://himawari8.nict.go.jp/">Asessu Satelite</a>
 </div>
+
+<div class="windy mb-5 text-center">
+    <iframe width="650" height="450" src="https://embed.windy.com/embed2.html?lat=-8.890&lon=125.598&detailLat=-8.559&detailLon=125.577&width=650&height=450&zoom=8&level=surface&overlay=rain&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
+</div>
+
 <h3 class="pb-2 fw-normal text-center ">Mapa Klima Agora</h3>
 <div class="container">
     <div class="card my-5">
@@ -105,7 +136,7 @@
 
                         var marker = L.marker([<?php echo $lat; ?>, <?php echo $model['long'][$index]; ?>], {
                             icon: customIcon
-                        }).addTo(map).bindPopup('<b><center><?php echo ucfirst($model['city'][$index]); ?></center><br><center><h3><?= $model['temp'][$index] ?> °C</h3></center></b><center><p><?= Helper::weatherCodeDesc($model['weacode'][$index]) ?></p></center>');
+                        }).addTo(map).bindPopup("<b><center><?php echo ucfirst($model['city'][$index]); ?></center><br><center><h3><?= $model['temp'][$index] ?> °C</h3></center></b><center><p><?= Helper::weatherCodeDesc($model['weacode'][$index]) ?></p></center>");
                     <?php } ?>
 
                     function getIconUrl(weatherCode) {
