@@ -2,7 +2,7 @@
 
 Bemvindo mai iha web aplikasaun simpel hodi bele montitoriza klima iha regiaun Timor-Leste !🌍
 
-![Bandeira Timor Leste](https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg){:height="100px" width="100px"}
+![Bandeira Timor Leste](https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg){:height="20px" width="20px"}
 
 ## Deskrisaun
 
