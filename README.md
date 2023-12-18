@@ -1,6 +1,8 @@
 # WeatherApp 🌦️
 
-Bemvindo mai iha web aplikasaun simpel hodi bele montitoriza klima iha regiaun Timor-Leste 🇹🇱 ! 🌍
+Bemvindo mai iha web aplikasaun simpel hodi bele montitoriza klima iha regiaun Timor-Leste ! 🌍
+
+![Bendera Timor Leste](https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg)
 
 ## Deskrisaun
 
