@@ -13,10 +13,9 @@ WeatherApp nu'udar aplikasaun ne'ebe kria hodi bele fornese informasaun klima si
 ## Instalasaun
 
 1. Clone repositoriu ida ne'e: `git clone https://github.com/Frederico27/WeatherApp.git`
-2. Install Composer iha link ne'e [Composer](https://getcomposer.org/), Karik iha ona bele kontinua direta ba Nu. 3
-3. Inisializa composer : `composer init`
-4. Install dependensia sira: `composer install`
-5. Bele komesa utiliza
+2. Install Composer iha link ne'e [Composer](https://getcomposer.org/), Karik iha ona bele hakat pasu 3
+3. Install dependensia sira: `composer update`
+4. Bele komesa utiliza
 ---
 
 Obrigado mai vizita projetu WeatherApp🌦️ karik iha sujestaun no issue ruma bele hatoo iha link tuirmai: [Issues](https://github.com/Frederico27/WeatherApp/issues).
